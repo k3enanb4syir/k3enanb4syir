@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/batch-2024-007EC6?style=plastic&labelColor=555555" alt="Batch: 2024" />
-  <img src="https://img.shields.io/badge/focus-DataScience-97C40F?style=plastic&labelColor=555555" alt="Focus: Data Science" />
+  <img src="https://img.shields.io/badge/interest-Data Science & AI-97C40F?style=plastic&labelColor=555555" alt="Focus: Data Science & AI" />
   <img src="https://img.shields.io/badge/from-Indonesia-65B8A6?style=plastic&labelColor=555555" alt="From: Indonesia" />
 </p>
 
