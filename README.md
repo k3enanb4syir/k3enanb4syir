@@ -23,10 +23,9 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammad-keenan-basyir-336153337" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5/32" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp; <!-- This adds a small space -->
   <a href="https://www.kaggle.com/keenanbasyir" target="_blank">
-    <img src="https://cdn.simpleicons.org/kaggle/20BEFF/32" alt="Kaggle" />
+    <img src="https://img.shields.io/badge/KAGGLE-46a4da?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
 </p>
