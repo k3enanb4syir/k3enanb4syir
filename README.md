@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/from-Indonesia-65B8A6?style=plastic&labelColor=555555" alt="From: Indonesia" />
 </p>
 
-📚 I'm currently studying in Universitas Gadjah Mada, majoring in Computer Science
+📚 I'm currently studying at Universitas Gadjah Mada, majoring in Computer Science
 
 🌱 Developing my Data Science and AI skills
 
