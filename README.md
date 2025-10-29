@@ -21,11 +21,12 @@
 
 ## Connect with me!
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/muhammad-keenan-basyir-336153337" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.kaggle.com/keenanbasyir" target="_blank">
-    <img src="https://img.shields.io/badge/KAGGLE-46a4da?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile"/>
   </a>
 </p>
