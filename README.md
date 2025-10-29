@@ -1,4 +1,10 @@
-## Hi there! Welcome to my GitHub Profile 👋
+## Hi there, I'm Muhammad Keenan Basyir! Welcome to my GitHub Profile 👋
+
+<p align="left">
+  <img src="https://img.shields.io/badge/batch-2024-007EC6?style=plastic&labelColor=555555" alt="Batch: 2024" />
+  <img src="https://img.shields.io/badge/focus-DataScience-97C40F?style=plastic&labelColor=555555" alt="Focus: Data Science" />
+  <img src="https://img.shields.io/badge/from-Indonesia-65B8A6?style=plastic&labelColor=555555" alt="From: Indonesia" />
+</p>
 
 ## My Areas of Interest
 - AI & Machine Learning: I'm deeply engaged in understanding core algorithms, exploring data modeling techniques, and honing my skills in building and deploying predictive models.
